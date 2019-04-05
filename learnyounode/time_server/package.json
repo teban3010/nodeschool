@@ -1,0 +1,15 @@
+{
+  "name": "time_server",
+  "version": "1.0.0",
+  "description": "Time server exercise from learnyounode",
+  "main": "program.js",
+  "dependencies": {
+    "strftime": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Yañez",
+  "license": "MIT"
+}
