@@ -1,0 +1,15 @@
+{
+  "name": "to_err_is_human",
+  "version": "1.0.0",
+  "description": "To err is human exercise from test-anything",
+  "main": "program.js",
+  "dependencies": {
+    "tape": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Yañez",
+  "license": "MIT"
+}
